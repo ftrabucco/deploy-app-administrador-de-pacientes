@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ftrabucco/deploy-app-administrador-de-pacientes/static/css/main.13d2ccb7.chunk.css",
+    "main.js": "/ftrabucco/deploy-app-administrador-de-pacientes/static/js/main.16c5c4e6.chunk.js",
+    "main.js.map": "/ftrabucco/deploy-app-administrador-de-pacientes/static/js/main.16c5c4e6.chunk.js.map",
+    "runtime-main.js": "/ftrabucco/deploy-app-administrador-de-pacientes/static/js/runtime-main.9f56aa62.js",
+    "runtime-main.js.map": "/ftrabucco/deploy-app-administrador-de-pacientes/static/js/runtime-main.9f56aa62.js.map",
+    "static/js/2.820bfa35.chunk.js": "/ftrabucco/deploy-app-administrador-de-pacientes/static/js/2.820bfa35.chunk.js",
+    "static/js/2.820bfa35.chunk.js.map": "/ftrabucco/deploy-app-administrador-de-pacientes/static/js/2.820bfa35.chunk.js.map",
+    "index.html": "/ftrabucco/deploy-app-administrador-de-pacientes/index.html",
+    "precache-manifest.268ec1825ded2e145535b4844b6d41d8.js": "/ftrabucco/deploy-app-administrador-de-pacientes/precache-manifest.268ec1825ded2e145535b4844b6d41d8.js",
+    "service-worker.js": "/ftrabucco/deploy-app-administrador-de-pacientes/service-worker.js",
+    "static/css/main.13d2ccb7.chunk.css.map": "/ftrabucco/deploy-app-administrador-de-pacientes/static/css/main.13d2ccb7.chunk.css.map",
+    "static/js/2.820bfa35.chunk.js.LICENSE.txt": "/ftrabucco/deploy-app-administrador-de-pacientes/static/js/2.820bfa35.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f56aa62.js",
+    "static/js/2.820bfa35.chunk.js",
+    "static/css/main.13d2ccb7.chunk.css",
+    "static/js/main.16c5c4e6.chunk.js"
+  ]
+}
